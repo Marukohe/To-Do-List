@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="task">Task</string>
+    <string name="important">Important</string>
+    <string name="nav_open_drawer">Open navigation drawer</string>
+    <string name="nav_close_drawer">Close navigation drawer</string>
+    <string name="bingguo_image">Bingguo Image</string>
+    <string name="taskhint">Please enter the task</string>
+    <string name="taskdate">Choose the date</string>
+    <string name="notes">Add notes</string>
+    <string name="delete">Delete Task</string>
+
+</resources>
